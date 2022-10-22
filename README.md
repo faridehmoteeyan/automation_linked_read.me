@@ -1,4 +1,14 @@
 # automation_linked_read.me
+## :x:please use high version :):x:
+ورژن های بالاتر قابلیت های بیشتری دارند.علت حذف نشدن ورژن های پایین تر برای نشان دادن تغییرات در طی زمان است. اما فایل های ورژن بالا را استفاده فرمایید
+## imporovment over time
+ver 1:
+* we must have 1 read.me in every file.
+* every readmes must have the same name,"ReadME.md"
+
+:seedling: ver 2 :
+* we can searsh all the files with differant markdown name.
+
 ## :bulb: what is this?
 من یه فایل دارم که خودش از چند تا فایل تشکیل شده و هر کدوم از فایل ها ریدمی دارند.
 <br>
@@ -20,7 +30,6 @@
 
 ## :file_folder: real use
 این برنامه در ریپزیتوری زیر اجرا شده است.
-
 
 
 
